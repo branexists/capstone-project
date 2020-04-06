@@ -1,0 +1,13 @@
+body {
+    margin: 0px;
+    font-family: 'Inconsolata', monospace;
+    background-color: #191a1d;
+}
+
+li, a, button {
+    font-family: 'Inconsolata', monospace;
+    font-weight: bold;
+    font-size: 20px;
+    color: #ffffff;
+    text-decoration: none;
+}
